@@ -1,0 +1,23 @@
+
+html,body{
+    height: 100%;
+    width: 100%;
+ }
+
+body{
+     background-color: rgb(253, 175, 187)
+ }
+
+textarea{
+     background-color: rgb(252, 198, 206)
+ }
+
+h1, text, h3 {
+    color:white
+    
+}
+
+h1, text, h3 {
+    font-family: 'Jua', sans-serif;
+
+}
